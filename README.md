@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zyadkhaled-zk&label=Profile%20views&color=0e75b6&style=plastic" alt="zyadkhaled-zk" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zyadkhaled-zk&margin-w=10&no-bg=true" alt="zyadkhaled-zk" />
-  </a>
 </p>
 
 ---
@@ -18,7 +15,7 @@
 - 👯 Looking to collaborate on **Open-source .NET or JavaScript projects**
 - 💬 Ask me about **C#, .NET, JavaScript, Data Structures & Problem Solving**
 - ⚡ Fun fact: I enjoy solving algorithmic challenges and optimizing performance
-- 📫 Reach me at **zyadxtmore@gmail.com**
+- 📫 Reach me at **zyadxtmore@gmail.com** & **+201010034937**
 
 ---
 
