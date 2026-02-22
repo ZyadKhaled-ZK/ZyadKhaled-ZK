@@ -75,19 +75,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyadkhaled-zk&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zyadkhaled-zk&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadkhaled-zk&theme=dark" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
