@@ -79,9 +79,6 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/zyadkhaled" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
   <a href="https://codeforces.com/profile/zyad_khaled" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
   </a>
