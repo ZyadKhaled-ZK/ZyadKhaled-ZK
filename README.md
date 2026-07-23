@@ -1,35 +1,59 @@
 <h1 align="center">Hi 👋, I'm Zyad Khaled</h1>
-<h3 align="center">Backend-Focused Web Developer | .NET & JavaScript Enthusiast</h3>
+<h3 align="center">Backend Developer · C# & ASP.NET Core · AI Integration</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zyadkhaled-zk&label=Profile%20views&color=0e75b6&style=plastic" alt="zyadkhaled-zk" />
+</p>
+
+<p align="center">
+  📧 zyadxtmore@gmail.com &nbsp;|&nbsp; 📱 +20 101 003 4937 &nbsp;|&nbsp; 📍 Benha, Al Qalyubia, Egypt
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student at **Benha National University** (2023 – Present)
-- 💼 Student Intern at **ALX Africa** – working on agile software practices & collaborative development
+- 🎓 Computer Science student at **Benha National University** (2023 – Present) — GPA 3.32/4.0, Dean's List Fall 2025–26
+- 💼 Backend AI Engineer Intern at **FlyRank AI** — integrating AI models into scalable backend services
+- 💼 Full Stack Developer Intern at **Digital Egypt Pioneers Initiative (DEPI)** — Egypt's national tech upskilling programme
 - 🌱 Currently learning **ASP.NET Core, System Design, Advanced SQL**
 - 👯 Looking to collaborate on **Open-source .NET or JavaScript projects**
 - 💬 Ask me about **C#, .NET, JavaScript, Data Structures & Problem Solving**
 - ⚡ Fun fact: I enjoy solving algorithmic challenges and optimizing performance
-- 📫 Reach me at **zyadxtmore@gmail.com** & **+201010034937**
+
+---
+
+### 💼 Experience
+
+**Backend AI Engineer — Intern** · FlyRank AI · Remote · *Jun 2026 – Present*
+- Developing backend AI engineering solutions and integrating AI models into scalable backend services
+
+**Full Stack Developer — Intern** · Digital Egypt Pioneers Initiative (DEPI) · Remote · *Oct 2025 – Present*
+- Building full-stack web applications as part of Egypt's national tech upskilling programme
+- Applying backend development, database design, and front-end integration in real-world projects
+
+**Software Engineering Trainee** · ALX Africa · Remote · *Feb 2024 – Mar 2024*
+- Completed intensive backend curriculum covering C, Python, REST APIs, and data structures
+- Solved 200+ algorithm challenges; participated in pair programming and code reviews
 
 ---
 
 ### 🚀 Projects
 
-#### 🎮 Pixel Quest — HTML5, CSS3, JavaScript
-- Engineered an interactive web-based platform using **HTML5 Canvas** and vanilla JavaScript with real-time gameplay mechanics
-- Increased accessibility by **40%** across Chrome, Firefox, and Safari through responsive design and CSS3
-- Improved user retention by **35%** with dynamic animations and visual effects
-- Achieved **60 FPS** on low-end devices, reducing load time by **25%** through efficient asset management
+#### 🎮 GameStore — C#, ASP.NET Core 8, EF Core 9, SQL Server, SignalR, Stripe, Redis, Docker
+🔗 [gamestore.tech](https://gamestore.tech)
+- Architected a 3-tier Clean Architecture solution (DAL/BLL/PL) with a 23-table relational schema, Repository/Unit-of-Work pattern, and RBAC across Admin, Developer, and Customer portals
+- Engineered a full e-commerce pipeline: Stripe Checkout with webhook-verified payment confirmation, cart-to-library fulfilment, wallet store-credit, and a 14-day refund workflow
+- Built real-time features with SignalR (live notifications, chat with read-receipts & typing indicators, presence tracking) and a friend-recommendation engine
+- Implemented authentication & hardening: BCrypt password hashing, Google OAuth 2.0, email verification, CSRF anti-forgery, and endpoint-level rate limiting
+- Delivered Admin/Developer analytics dashboards (revenue, retention, sales KPIs) backed by Redis distributed caching and output caching for sub-second response times
+- Automated CI-ready testing (489 xUnit/Moq unit & integration tests) and containerised multi-stage Docker deployment via docker-compose
 
-#### 🧊 3D Transform Library — React, Computer Graphics, WebGL
-- Designed an intuitive API for developers to implement complex 3D effects
-- Integrated matrix mathematics and quaternion rotations for smooth transformation calculations
+#### 💾 RAID Storage System — Python
+- Implemented RAID 0, 1, and 5 with parity calculations, fault-tolerant storage, and data recovery
+
+#### 🧊 3D Graphics Rendering Engine — C++, OpenGL
+- Rendering pipeline with lighting models, camera movement, texture mapping, and VBO optimisation
 
 ---
 
@@ -37,10 +61,9 @@
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
-| Structured Query Language (Intermediate) | DataCamp | Jan 2026 |
 | ALX AiCE – Artificial Intelligence Career Essentials | ALX Africa | May 2024 |
+| Beginning SQL Server | Coursera | Feb 2024 |
 | CCNA Version 7: Introduction to Networks | Cisco | Feb 2024 |
-| Introduction to Transact-SQL | LinkedIn Learning | Feb 2024 |
 
 ---
 
@@ -57,28 +80,44 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
 
-**Programming Languages:** C# (ASP.NET), C++, Python, Transact-SQL, JavaScript (ES6+)
+**Languages:** C#, SQL, Python, C, C++, JavaScript
 
-**Core Competencies:** Backend Engineering · System Programming · Web Scraping Automation · Network Configuration · Hardware Troubleshooting · OS Administration · Algorithmic Problem Solving
+**Frameworks:** ASP.NET Core 8, Entity Framework Core, SignalR, xUnit, Flask, REST APIs
+
+**Databases:** SQL Server, PostgreSQL, Redis, Database Design & Optimisation
+
+**Tools:** Git, Docker, Stripe, Visual Studio, Unit Testing, Code Review, Agile
+
+**CS Foundations:** Data Structures & Algorithms, Operating Systems, Networking
 
 ---
 
 ### 📊 Competitive Programming
 
 - 🏅 **Codeforces Rating:** 1013
-- ✅ **Solved:** 184 algorithmic challenges
+- ✅ **Solved:** 200+ algorithmic challenges
 
 ---
-<a href="https://zread.ai/xerrors/Yuxi-Know" target="_blank"><img src="https://img.shields.io/badge/Ask_Zread-_.svg?style=flat&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff" alt="zread"/></a>
+
+### 🌐 Languages
+
+Arabic — Native · English — Professional Working Proficiency · German — Elementary
+
+---
 
 ### 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/zyadkhaled" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
   <a href="https://codeforces.com/profile/zyad_khaled" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
   </a>
